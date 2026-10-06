@@ -1,5 +1,6 @@
 
-//comment only attemptin remote comunication
+//Not tested yet (by me)
+//may need some work
 
 
 #include <stdio.h>
