@@ -1,3 +1,6 @@
+//MakeKate-c hello world
+
+
 
 //Not tested yet (by me)
 //may need some work
